@@ -1,1 +1,5 @@
-scripts/.ipynb_checkpoints/
+scripts/.ipynb_checkpoints
+scripts/logs.txt
+data/cookies_fb.txt
+data/cookies_fb_ian.txt
+
