@@ -42,8 +42,8 @@ SG,Singapore
 mrt,subway
 MRT,subway
 Mrt,subway
-icu,Intensive Care Unit
-ICU,Intensive Care Unit
+icu,hospital
+ICU,hospital
 pls,please
 PLS,please
 WFH,Work From Home
@@ -149,6 +149,7 @@ bto,Build-to-Order Housing
 BTO,Build-to-Order Housing
 siong,tough
 uni,university
+Uni,University
 GP,doctor
 gp,doctor
 shld,should
@@ -223,8 +224,9 @@ Fk,Fuck
 mth,month
 bcos,because
 BCOS,BECAUSE
-bruh ,bro
-BRUH ,BRO
+bruh ,brother
+BRUH ,BROTHER
+Bruh ,Brother
 sabo,sabotage
 SABO,SABOTAGE
 jus,just
