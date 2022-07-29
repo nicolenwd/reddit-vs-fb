@@ -7,7 +7,7 @@ My project involves the following key stages:
 1. *Data Extraction*: Selecting the relevant Reddit and Facebook posts, then using APIs to scrape comments from the posts.
 2. *Text pre-processing*: Applying a variety of NLP methods to pre-process the text for sentiment analysis such as text cleaning, tokenisation, stop words removal. Singlish and domain-specific phrases in the text will also be specially treated and replaced with meanings in English.
 3. *Sentiment Analysis*: Applying and evaluating the performance of sentiment analysis algorithms like VADER and TextBlob on the comment corpora.
-4. *Statistical Analysis*: Computing mean sentiment polarity scores for each Reddit and FB comment sample and conducting appropriate statistical two-sample tests to determine if there is a statistically significant difference in sentiment of each sample. 
+4. *Hypothesis testing*: Computing mean sentiment polarity scores for each Reddit and FB comment sample and conducting appropriate statistical two-sample tests to determine if there is a statistically significant difference in sentiment of each sample. 
 5. *Temporal Analysis*: Adding a temporal dimension to the analysis by investigating how sentiment on Reddit and FB converge/diverge over time and in relation to key developments (e.g. new variants like Delta/Omicron) and changes in the number of COVID-19 cases in Singapore.
 
 ## Code
