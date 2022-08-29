@@ -71,8 +71,14 @@ VAXX,Vaccination
 Vaxx,Vaccination
 vaxx,Vaccination
 vaxxed,vaccinated
+Vaxxed,vaccinated
+unvax,unvaccinated
+Unvax,unvaccinated
 unvaxx,unvaccinated
+Unvaxx,unvaccinated
 unvaxxed,unvaccinated
+Unvaxxed,unvaccinated
+antivaxxers,people against vaccination
 antivaxxers,people against vaccination
 kena,get
 MOE,Ministry of Education
