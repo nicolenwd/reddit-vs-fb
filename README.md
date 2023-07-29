@@ -17,6 +17,7 @@ My project involves the following key stages:
 - *scripts/3_sentiment_analysis.ipynb* - Python script that conducts sentiment analysis using VADER/TextBlob and evaluates the results.
 - *scripts/4_further_analysis.ipynb* - Python script that conducts further statistical and temporal analysis on the output for further insights.
 - *data* - a folder containing extracted Reddit/FB comment data, cleaned text data and sentiment analysis output.
+- *QMSS Thesis_Nicole_Final.pdf* - Final thesis submitted.
 
 ## Author
 Nicole Neo, [nicolenwd](https://github.com/nicolenwd)
